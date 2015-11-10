@@ -1,0 +1,21 @@
+Scala
+
+Object-oriented, functional
+
+imports from both Java and Scala libraries
+can take a list for imports
+can rename imports, in case of conflicts
+treats everything as an object, including "primitives" and functions
+
+breaks handled as a separate class, functions passed to it
+
+appears to be late binding, doesn't bind type until stated/needed
+
+Scope is dynamic, like Java
+
+functions with no args do not require ()
+
+parseInt() changed to toInt, to be consistent with toString methods
+
+
+Lots of support, IDE plugins with netbeans, eclipse, several small IDEs
